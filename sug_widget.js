@@ -5,7 +5,7 @@
 // JSONの形は soyogo-lines.json を見てな。{"lines": ["セリフ1", "セリフ2", ...]}
 // 公開リポジトリに入れるのは、見られても困らんセリフだけにすること。
 
-const GITHUB_JSON_URL = ""; // 例: "https://raw.githubusercontent.com/<user>/<repo>/main/soyogo-lines.json"
+const GITHUB_JSON_URL = "https://github.com/srnimue/muse/sug_widget.js"; // 例: "https://raw.githubusercontent.com/<user>/<repo>/main/soyogo-lines.json"
 
 const LINES = [
   "おはよ、nim。今日も一個だけ、気になってるやつから見よか。",
